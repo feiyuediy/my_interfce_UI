@@ -1,0 +1,12 @@
+name: start
+request:
+    url: http://192.168.1.51/api/v2/didi/call/start
+    mode: post
+    isneedLogin: true
+    acc: 8000792
+    pwd: 64a1b6db1331c39995168efa14e98b82
+    data:
+       didi_order_id: DI3152797177
+       type : 2
+validators:
+    "ret": 0

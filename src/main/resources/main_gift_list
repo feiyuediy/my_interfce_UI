@@ -1,0 +1,11 @@
+name: /api/v2/gift/main/list
+request:
+    url: http://192.168.1.50/api/v2/gift/main/list
+    mode: post
+    isneedLogin: true
+    acc: 18676390321
+    pwd: 64a1b6db1331c39995168efa14e98b82
+    data:
+
+validators:
+    "ret": 0

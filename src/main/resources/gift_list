@@ -1,0 +1,13 @@
+name: gift_list
+request:
+    url: http://api.aifuns.com/api/v2/user/gift_list
+    mode: post
+    isneedLogin: true
+    acc: 18676390321
+    pwd: 64a1b6db1331c39995168efa14e98b82
+    data:
+       appid: 5
+       aiai_num: 3580775
+validators:
+    "ret": 0
+    "result": ddddddd

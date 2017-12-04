@@ -1,0 +1,16 @@
+name: /api/v2/shop/new_present_order
+request:
+    url: http://192.168.1.50/api/v2/shop/new_present_order
+    mode: post
+    isneedLogin: true
+    acc: 5000186
+    pwd: 64a1b6db1331c39995168efa14e98b82
+    data:
+      gift_id: 39
+      count: 1
+      coin: 100
+      to_aiai_num: 4002165
+      is_public_notice: 0
+      feed_id:
+validators:
+    "ret": 0

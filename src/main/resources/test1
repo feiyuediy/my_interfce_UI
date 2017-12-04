@@ -1,0 +1,10 @@
+name: getcode
+request:
+    url: http://api.aifuns.com/api/v2/auth/getcode
+    mode: post
+    isneedLogin: flase
+    data:
+        username: 18676390321
+        password: 64a1b6db1331c39995168efa14e98b82
+validators:
+    "ret": 0

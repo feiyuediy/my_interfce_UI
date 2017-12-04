@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.eu.acolyte:jdbc-driver:1.0.42-j7p">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eu/acolyte/jdbc-driver/1.0.42-j7p/jdbc-driver-1.0.42-j7p.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eu/acolyte/jdbc-driver/1.0.42-j7p/jdbc-driver-1.0.42-j7p-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eu/acolyte/jdbc-driver/1.0.42-j7p/jdbc-driver-1.0.42-j7p-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

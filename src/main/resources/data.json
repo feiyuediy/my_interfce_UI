@@ -1,0 +1,34 @@
+{
+  "userInfo":{
+    "name":"18611111111",
+    "passWord":"64a1b6db1331c39995168efa14e98b82",
+    "userId":"331"
+  },
+  "url":"http://192.168.1.50",
+  "RequstHeardInfo":{
+    "appid":"1",
+    "appver":"61",
+    "channel":"unknow",
+    "clientid":"407e2af3-4216-3307-9b47-cca8c410caa7",
+    "lang":"zh",
+    "platform":"2",
+    "ver":"1.0"
+  },
+  "DB":{
+    "data":{
+      "url":"192.168.1.51:3306",
+      "acc":"root",
+      "pwd":"test"
+    },
+    "result":{
+      "url":"192.168.1.58:3306",
+      "acc":"root",
+      "pwd":"admin"
+    }
+  },
+  "Mail":{
+    "from":"zjf@aifuns.com",
+    "pwd":"Test@123",
+    "to":"zjf@aifuns.com,171769733@qq.com"
+  }
+}

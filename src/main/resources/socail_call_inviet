@@ -1,0 +1,13 @@
+name: socail_call_inviet
+request:
+    url: http://192.168.1.50/api/v2/social/call/invite
+    mode: post
+    isneedLogin: true
+    acc: 5000186
+    pwd: 64a1b6db1331c39995168efa14e98b82
+    data:
+      to_aiai_num: 5000399
+      call_type: 1
+      order_type: 1
+validators:
+    "ret": 0

@@ -1,0 +1,11 @@
+name: balance
+request:
+    url: http://192.168.1.50/api/v2/social/call/balance
+    mode: post
+    isneedLogin: true
+    acc: 18676390321
+    pwd: 64a1b6db1331c39995168efa14e98b82
+    data:
+      call_type: 1
+validators:
+    "ret": 0

@@ -1,0 +1,12 @@
+name: social_call_end
+request:
+    url: http://192.168.1.50/api/v2/social/call/end
+    mode: post
+    isneedLogin: true
+    acc: 18676390321
+    pwd: 64a1b6db1331c39995168efa14e98b82
+    data:
+     call_type: 1
+     order_no: Y20171129005905
+validators:
+    "ret": 0
